@@ -5,7 +5,7 @@ Supplementary materials and digital copy of my 2025 AGU Poster "Assessing spectr
 
 # Contact Information
 
-Germán D. Silva, Ph.D.
+Germán D. Silva, Ph.D.<br>
 E-mail: german.silva@geog.ucsb.edu <br>
 Website: [german-sil.github.io/gds](german-sil.github.io/gds) <br>
 <br>
