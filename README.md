@@ -63,6 +63,7 @@ Figure S5: Maps of index-based estimates of soil salinity in A) February and B) 
 
 # Copy of Poster
 
+[AGU_Poster_Ch_3.pdf](https://github.com/user-attachments/files/24118341/AGU_Poster_Ch_3.pdf)
 
 
 
