@@ -12,7 +12,7 @@ Website: [german-sil.github.io/gds](german-sil.github.io/gds) <br>
 
 # Supplemental Figures
 <br>
-<img width="938" height="724" alt="image" src="https://github.com/user-attachments/assets/bc30f51e-a2b6-4495-8a9a-93f734ed4bbc" />
+<img width="938" height="724" alt="image" src="https://github.com/user-attachments/assets/bc30f51e-a2b6-4495-8a9a-93f734ed4bbc" background -color = "white" />
 
 
 
