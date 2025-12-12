@@ -12,7 +12,8 @@ Website: [german-sil.github.io/gds](german-sil.github.io/gds) <br>
 
 # Supplemental Figures
 <br>
-<img width="938" height="724" alt="image" src="https://github.com/user-attachments/assets/bc30f51e-a2b6-4495-8a9a-93f734ed4bbc" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/7c33cb88-bf8a-4d5a-8812-b1b0fb458976" />
+
 
 
 
