@@ -17,17 +17,26 @@ Website: [german-sil.github.io/gds](german-sil.github.io/gds) <br>
 Figure S1: Difference in trait estimates between February and September 2022. A) Difference in LMA between the two dates, purple indicates areas were LMA decreased while green indicates areas were LMA increased. B) Difference in WC between the two dates, blue areas indicate increases in WC and brown indicates decreases in WC. 
 <br>
 <br>
+<br>
+<br>
+<br>
 
 <img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/7bfdf1f2-77c3-4d6a-997a-ad5d94f21306" />
 <br>
 Figure S2: Maps of trait-based estimates of soil salinity in A) February and B) September, 2022. Darker colors indicate more saline portions of the marsh compared to the lighter colored regions. 
 <br>
 <br>
+<br>
+<br>
+<br>
 
+<img width="1200" height="900" alt="image" src="https://github.com/user-attachments/assets/2b60f50a-7ea9-4429-90f6-33035d63472f" />
 
-<img width="938" height="724" alt="image" src="https://github.com/user-attachments/assets/045b62cc-c65a-42c4-be56-690748e02a7e" />
 <br>
 Figure S3: Maps of index-based estimates of soil salinity in A) February and B) September, 2022. Darker colors indicate more saline portions of the marsh compared to the lighter colored regions.
+<br>
+<br>
+<br>
 <br>
 <br>
 
